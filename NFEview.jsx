@@ -29,7 +29,7 @@ class NFEviewPage extends React.Component {
           <Row>
             <Col>
               <Card className="card-chart" >
-                <Card.Header as="h5">General Performance of Nursery_Field</Card.Header>
+                <Card.Header as="h5">General Performance</Card.Header>
                   <Card.Body>
                     <Card.Title >Monthly Report</Card.Title>
                       <Card.Text>
@@ -46,7 +46,7 @@ class NFEviewPage extends React.Component {
           <Row>
             <Col>
               <Card className="card-chart" >
-                  <Card.Header as="h5">Total Flagged in Nursery_Field</Card.Header>
+                  <Card.Header as="h5">Total</Card.Header>
                     <Card.Body>
                       <Card.Title >Weekly report</Card.Title>
                         <Card.Text>
@@ -60,7 +60,7 @@ class NFEviewPage extends React.Component {
             </Col>
             <Col>
             <Card className="card-chart" >
-                  <Card.Header as="h5">Completed Tasks Nursery_Field</Card.Header>
+                  <Card.Header as="h5">Completed</Card.Header>
                     <Card.Body>
                       <Card.Title >Weekly report</Card.Title>
                         <Card.Text>
